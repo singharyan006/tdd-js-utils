@@ -1,4 +1,4 @@
-import capitalize from "../src/capitalize";
+import capitalize from "../src/capitalize.js";
 
 describe('capitalize', () => {
     test('capitalizes the first letter of a lowercase word', () => {

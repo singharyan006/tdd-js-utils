@@ -2,9 +2,12 @@
 
 A collection of JavaScript utility functions built using **Test-Driven Development (TDD)** methodology with Jest testing framework.
 
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Tests](https://img.shields.io/badge/tests-11%20total-blue)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub Release](https://img.shields.io/github/v/release/singharyan006/tdd-js-utils)
 
 ## 🎯 Project Overview
 
@@ -178,7 +181,17 @@ All functions are tested with comprehensive test cases covering:
 7. Push to branch (`git push origin feature/new-util`)
 8. Open a Pull Request
 
-## 📝 License
+## � Releases
+
+### Latest Release: v1.0.0
+- ✅ Complete implementation of all 5 utility functions
+- ✅ Comprehensive test suite with 100% coverage
+- ✅ Full documentation and examples
+- ✅ TDD methodology demonstration
+
+[View all releases](https://github.com/singharyan006/tdd-js-utils/releases) | [Download latest](https://github.com/singharyan006/tdd-js-utils/releases/latest)
+
+## �📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

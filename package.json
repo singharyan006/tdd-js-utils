@@ -1,7 +1,7 @@
 {
   "name": "tdd-js-utils",
   "version": "1.0.0",
-  "description": "🚧Under Construction: This is a JavaScript utility library being built using **Test-Driven Development (TDD)** with **Jest**. The project is currently under construction — stay tuned as more functions and test cases are added iteratively!",
+  "description": "A comprehensive JavaScript utility library built using Test-Driven Development (TDD) methodology with Jest. Includes string manipulation, math operations, and encryption utilities with 100% test coverage.",
   "main": "index.js",
   "scripts": {
     "test": "jest"

@@ -181,7 +181,7 @@ All functions are tested with comprehensive test cases covering:
 7. Push to branch (`git push origin feature/new-util`)
 8. Open a Pull Request
 
-## � Releases
+## 📦 Releases
 
 ### Latest Release: v1.0.0
 - ✅ Complete implementation of all 5 utility functions
@@ -189,9 +189,9 @@ All functions are tested with comprehensive test cases covering:
 - ✅ Full documentation and examples
 - ✅ TDD methodology demonstration
 
-[View all releases](https://github.com/singharyan006/tdd-js-utils/releases) | [Download latest](https://github.com/singharyan006/tdd-js-utils/releases/latest)
+[🔖 View all releases](https://github.com/singharyan006/tdd-js-utils/releases) | [🔖 Download latest](https://github.com/singharyan006/tdd-js-utils/releases/latest)
 
-## �📝 License
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
